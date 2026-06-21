@@ -98,10 +98,10 @@ Each report covers threat actor profiling, OSINT findings from Spiderfoot, Kiban
 All weekly reports are in the [weekly-reports](weekly-reports/) folder.
 
 ### Report Index
-
 | Week | Period | Report |
 |---|---|---|
 | Week 1 | May 29 – May 31, 2026 | [WTIR-01-2026](weekly-reports/WTIR-01-2026.md) |
+| Week 2 | May 29 – June 20, 2026 | [WTIR-02-2026](weekly-reports/WTIR-02-2026.md) |
 
 ## Lab Environment
 
