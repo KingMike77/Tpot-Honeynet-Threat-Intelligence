@@ -106,6 +106,9 @@ All weekly reports are in the [weekly-reports](weekly-reports/) folder.
 | Week 4 | July 4 – July 11, 2026 | [WTIR-04-2026](weekly-reports/WTIR-04-2026.md)  |
 | Week 5 | July 11 - July 18, 2026 | [WTIR-05-2026](weekly-reports/WTIR-05-2026.md) |
 | Week 6 | July 18 - July 25, 2026 | [WTIR-06-2026](weekly-reports/WTIR-06-2026.md) |
+| Week 7 | July 25 - August 1, 2026 | [WTIR-07-2026](weekly-reports/WTIR-07-2026.md) |
+| Week 8 | August 1 - August 8,2026 | [WTIR-08-2026](weekly-reports/WTIR-08-2026.md) |
+| Week 9 | August 8 - August 15,2026 | [WTIR-09-2026](weekly-reports/WTIR-09-2026.md) |
 ## Lab Environment
 
 | Component | Details |
