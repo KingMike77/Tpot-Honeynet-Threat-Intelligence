@@ -109,6 +109,7 @@ All weekly reports are in the [weekly-reports](weekly-reports/) folder.
 | Week 7 | July 25 - August 1, 2026 | [WTIR-07-2026](weekly-reports/WTIR-07-2026.md) |
 | Week 8 | August 1 - August 8,2026 | [WTIR-08-2026](weekly-reports/WTIR-08-2026.md) |
 | Week 9 | August 8 - August 15,2026 | [WTIR-09-2026](weekly-reports/WTIR-09-2026.md) |
+| Week 10| August 15 - August 22,2026 | [WTIR-10-2026](weekly-reports/WTIR-10-2026.md) |
 ## Lab Environment
 
 | Component | Details |
